@@ -32,7 +32,8 @@ Ketika pengguna ingin menghapus data produk, pengguna dapat menekan tombol Delet
 7. Membatalkan input (Cancel)
 Tombol Cancel berfungsi untuk menghapus semua isi dari form input dan mengembalikan tampilan ke mode semula. Dalam mode ini, tombol Add aktif kembali, tombol Delete disembunyikan, dan tidak ada data yang sedang dipilih di tabel. Fitur ini membantu pengguna agar dapat memulai input baru tanpa harus menutup program.
 
-# DOKUMENTASI
-(./Dokumentasi/CRUD.mp4)
-Menyaring data berdasarkan kategori (Filter)
+8. Menyaring data berdasarkan kategori (Filter)
 Program juga menyediakan fitur penyaringan data menggunakan radio button yang mewakili setiap kategori produk seperti Elektronik, Makanan, Minuman, Pakaian, dan Alat Tulis. Ketika salah satu radio button dipilih, fungsi filterTable() akan dijalankan untuk menampilkan hanya data dengan kategori yang sesuai. Jika pengguna memilih opsi “Semua”, maka seluruh data produk dari tabel akan ditampilkan kembali tanpa filter.
+
+# DOKUMENTASI
+./Dokumentasi/CRUD.mp4
